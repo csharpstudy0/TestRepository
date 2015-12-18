@@ -1,0 +1,11 @@
+# コメント行です
+*.suo
+*.user
+bin/
+obj/
+NUnit/
+sh.exe.stackdump
+GitHubPush.bat
+コピー ～ GitHubPush.bat
+コピー (2) ～ GitHubPush.bat
+log.log
